@@ -31918,6 +31918,7 @@ cr.getObjectRefTable = function () {
 		cr.plugins_.Audio.prototype.acts.PlayByName,
 		cr.plugins_.Audio.prototype.acts.Play,
 		cr.system_object.prototype.cnds.OnLoadFinished,
+		cr.system_object.prototype.acts.SetVar,
 		cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 		cr.behaviors.EightDir.prototype.acts.SimulateControl,
 		cr.system_object.prototype.acts.GoToLayoutByName,
